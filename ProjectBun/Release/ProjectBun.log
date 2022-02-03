@@ -1,0 +1,73 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(194,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(195,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(199,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(200,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(201,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(202,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(539,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\Model3D.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\Model3D.cpp(61,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\Model3D.cpp(142,22): warning C4018: '<': signed/unsigned mismatch
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+main.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+main.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix3fv
+main.obj : error LNK2001: unresolved external symbol _glfwGetTime
+main.obj : error LNK2001: unresolved external symbol ___glewUniform1i
+main.obj : error LNK2001: unresolved external symbol _glfwGetFramebufferSize
+main.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+main.obj : error LNK2001: unresolved external symbol _glfwSetKeyCallback
+main.obj : error LNK2001: unresolved external symbol _glfwSetWindowShouldClose
+main.obj : error LNK2001: unresolved external symbol ___glewUniform1f
+main.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol ___glewActiveTexture
+main.obj : error LNK2001: unresolved external symbol ___glewFramebufferTexture2D
+main.obj : error LNK2001: unresolved external symbol ___glewGenFramebuffers
+main.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol ___glewBindFramebuffer
+main.obj : error LNK2001: unresolved external symbol _glfwSetCursorPosCallback
+main.obj : error LNK2001: unresolved external symbol _glfwSetWindowSizeCallback
+main.obj : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+main.obj : error LNK2001: unresolved external symbol ___glewUniform3fv
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewEnableVertexAttribArray
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewBindVertexArray
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttribPointer
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewGenVertexArrays
+Mesh.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+Model3D.obj : error LNK2001: unresolved external symbol __imp____glewDeleteVertexArrays
+Model3D.obj : error LNK2001: unresolved external symbol __imp____glewGenerateMipmap
+Model3D.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+Shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+SkyBox.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
+Window.obj : error LNK2001: unresolved external symbol _glfwTerminate
+Window.obj : error LNK2001: unresolved external symbol _glfwInit
+Window.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+Window.obj : error LNK2001: unresolved external symbol _glfwWindowHint
+Window.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+Window.obj : error LNK2001: unresolved external symbol _glfwDestroyWindow
+Window.obj : error LNK2001: unresolved external symbol __imp__glewExperimental
+Window.obj : error LNK2001: unresolved external symbol __imp__glewInit@0
+C:\Users\TheRa\source\repos\ProjectBun\Release\ProjectBun.exe : fatal error LNK1120: 53 unresolved externals

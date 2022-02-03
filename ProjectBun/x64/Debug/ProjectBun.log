@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(194,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(195,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(199,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(200,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(201,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(202,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheRa\source\repos\ProjectBun\ProjectBun\main.cpp(539,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ProjectBun.vcxproj -> C:\Users\TheRa\source\repos\ProjectBun\x64\Debug\ProjectBun.exe
